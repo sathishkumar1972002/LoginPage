@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyFirstProject</string>
+    <string name="Link"><a> Sign Up</a>
+    </string>
+</resources>
